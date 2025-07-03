@@ -76,3 +76,10 @@ lib = ctypes.CDLL('./libspellchecker.so')
 # Example: call a function named 'hello' from C
 lib.hello()
 ```
+
+### 🔽 Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/hybrid-spell-checker.git
+cd hybrid-spell-checker
+```
